@@ -1,12 +1,9 @@
 # TODOs
-* Change images
-  * get corresponding icons
-    * change to white
-  * get corresponding background images
-    * make sure colors look good
-  * add proper links
+* Complete Skills page
+  * Change Images and Icons
 * Complete About page
-  * add contact section
+* Add Contact page
+* Remove UNDER CONSTRUCTION Notice
 
 # FUTURE WORK
 * Make Reactive (React)
